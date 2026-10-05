@@ -288,7 +288,7 @@ This project was built as a learning exercise, so a few edge cases are not handl
 
 ## Authors
 
-- **Seif Hussein Mohamed Aboelazaim**: 20247012
-- **Omar Rashad Hassan Rashad**: 20247008
+- **Seif Hussein Mohamed Aboelazaim**
+- **Omar Rashad Hassan Rashad**
 
 Cairo University, Faculty of Computer Science and Artificial Intelligence (FCAI)
